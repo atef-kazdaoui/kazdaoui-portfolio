@@ -1,0 +1,81 @@
+.title-Mission{
+    position: relative;
+    color: white;
+
+}
+.Mission-container{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.missionKit{
+    position: absolute;
+    top : 70px;
+    left: 200px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.display-Mission{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+.mission1{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.mission2{
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 50px;
+
+}
+.mission-name1{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.mission-name2{
+    width: 50%;
+    display: flex;
+    align-items: center;
+justify-content: center;
+flex-direction: row;
+
+}
+
+.Mission-desc{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.Mission-desc2{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.desc{
+    width: 50%;
+    text-align: center;
+
+}
+.titre-de-projet{
+    font-weight: bold;
+    font-family: oswald;
+    font-size: 30px;
+}

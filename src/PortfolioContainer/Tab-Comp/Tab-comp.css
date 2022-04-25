@@ -1,0 +1,42 @@
+.title-TabComp{
+    position: relative;
+    color: white;
+
+}
+.TabComp-container{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.TabCompKit{
+    position: absolute;
+    top : 70px;
+    left: 200px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.display-TabComp{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+.TabComp{
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 50px;
+
+}
+.TabComp-but{
+    width: 100%;
+    display: flex;
+    align-items: center;
+justify-content: center;
+flex-direction: row;
+
+}
+
